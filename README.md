@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yatharth1810/leetcode--solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/yatharth1810/leetcode--solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/yatharth1810/leetcode--solutions/tree/main/0257-binary-tree-paths/) | Easy |
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yatharth1810/leetcode--solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/yatharth1810/leetcode--solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -42,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yatharth1810/leetcode--solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/yatharth1810/leetcode--solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/yatharth1810/leetcode--solutions/tree/main/0257-binary-tree-paths/) | Easy |
@@ -97,4 +100,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yatharth1810/leetcode--solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0144-binary-tree-preorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 <!---LeetCode Topics End-->
