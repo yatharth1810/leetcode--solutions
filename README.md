@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/yatharth1810/leetcode--solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yatharth1810/leetcode--solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Depth-First Search
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [2236-root-equals-sum-of-children](https://github.com/yatharth1810/leetcode--solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yatharth1810/leetcode--solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Lifting
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0094-binary-tree-inorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yatharth1810/leetcode--solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -127,4 +131,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0450-delete-node-in-a-bst](https://github.com/yatharth1810/leetcode--solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 <!---LeetCode Topics End-->
