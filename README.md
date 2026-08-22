@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/yatharth1810/leetcode--solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/yatharth1810/leetcode--solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/yatharth1810/leetcode--solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/yatharth1810/leetcode--solutions/tree/main/0257-binary-tree-paths/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/yatharth1810/leetcode--solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yatharth1810/leetcode--solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -64,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0257-binary-tree-paths](https://github.com/yatharth1810/leetcode--solutions/tree/main/0257-binary-tree-paths/) | Easy |
 | [0450-delete-node-in-a-bst](https://github.com/yatharth1810/leetcode--solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/yatharth1810/leetcode--solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
@@ -84,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/yatharth1810/leetcode--solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yatharth1810/leetcode--solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
@@ -92,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/yatharth1810/leetcode--solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yatharth1810/leetcode--solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Search
@@ -133,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yatharth1810/leetcode--solutions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/yatharth1810/leetcode--solutions/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/yatharth1810/leetcode--solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -148,4 +154,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/yatharth1810/leetcode--solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/yatharth1810/leetcode--solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 <!---LeetCode Topics End-->
