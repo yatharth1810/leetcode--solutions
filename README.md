@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2236-root-equals-sum-of-children](https://github.com/yatharth1810/leetcode--solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yatharth1810/leetcode--solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Depth-First Search
@@ -51,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yatharth1810/leetcode--solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yatharth1810/leetcode--solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0701-insert-into-a-binary-search-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 | [2236-root-equals-sum-of-children](https://github.com/yatharth1810/leetcode--solutions/tree/main/2236-root-equals-sum-of-children/) | Easy |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/yatharth1810/leetcode--solutions/tree/main/2385-amount-of-time-for-binary-tree-to-be-infected/) | Medium |
 ## Binary Lifting
@@ -146,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0700-search-in-a-binary-search-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -162,4 +166,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yatharth1810/leetcode--solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 <!---LeetCode Topics End-->
