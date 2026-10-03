@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/yatharth1810/leetcode--solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/yatharth1810/leetcode--solutions/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/yatharth1810/leetcode--solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yatharth1810/leetcode--solutions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0200-number-of-islands](https://github.com/yatharth1810/leetcode--solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/yatharth1810/leetcode--solutions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/yatharth1810/leetcode--solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/yatharth1810/leetcode--solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yatharth1810/leetcode--solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0542-01-matrix](https://github.com/yatharth1810/leetcode--solutions/tree/main/0542-01-matrix/) | Medium |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/yatharth1810/leetcode--solutions/tree/main/1373-maximum-sum-bst-in-binary-tree/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -201,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/yatharth1810/leetcode--solutions/tree/main/0200-number-of-islands/) | Medium |
+| [0542-01-matrix](https://github.com/yatharth1810/leetcode--solutions/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/yatharth1810/leetcode--solutions/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/yatharth1810/leetcode--solutions/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/yatharth1810/leetcode--solutions/tree/main/1020-number-of-enclaves/) | Medium |
